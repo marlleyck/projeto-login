@@ -5,8 +5,9 @@
 <br />
 
 <p align="center"><a href="https://nodejs.org/en/">NodeJs</a></p>
-<p align="center"><a href="https://www.mysql.com/">MongoDB</a></p>
+<p align="center"><a href="https://www.mongodb.com/">MongoDB</a></p>
 <p align="center"><a href="https://expressjs.com/pt-br/">Express</a></p>
+<p align="center"><a href="https://sequelize.org/">Sequelize</a></p>
 <p align="center"><a href="https://jwt.io/">JWT</a></p>
 <br />
 
